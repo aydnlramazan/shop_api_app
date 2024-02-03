@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Screenshot](file:///private/var/folders/x3/y4rc8v11467fntr8mt7nfr_m0000gn/T/simulator_screenshot_D71B22EA-2432-4815-B636-E8D941EFA2B2.png)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-03 at 22 31 11](https://github.com/aydnlramazan/shop_api_app/assets/106530954/78ab6bf2-0e88-4a6e-891a-ffa511d8d243)
